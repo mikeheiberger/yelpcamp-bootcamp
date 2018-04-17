@@ -9,7 +9,7 @@ const methodOverride = require('method-override');
 
 const Campground = require('./models/campground');
 const Comment = require('./models/comment');
-const User = require('./models/user');
+const User = require('./models/user2');
 const seedDB = require('./seeds');
 
 // Requiring routes
