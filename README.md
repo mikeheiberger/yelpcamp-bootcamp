@@ -10,4 +10,4 @@ The database is MongoDB, hosted on mLab, and accessed using the mongoose library
 Link: https://powerful-beyond-35111.herokuapp.com/
 
 # License
-See the <a href="LICENSE.md">LICENSE</a> file for license rights and limitations (MIT).
+See the <a href="LICENSE">LICENSE</a> file for license rights and limitations (MIT).
